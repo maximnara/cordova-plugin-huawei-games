@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-huawei-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "www/huaweigames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximnara/cordova-plugin-huawei-games.git"
+  },
+  "author": "Luzhkov Maksim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maximnara/cordova-plugin-huawei-games/issues"
+  },
+  "homepage": "https://github.com/maximnara/cordova-plugin-huawei-games#readme"
+}
